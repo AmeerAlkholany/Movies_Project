@@ -1,0 +1,17 @@
+.nav{
+	background-color: #2F3E46;
+}
+.textb{
+	color: #CAD2C5;
+}
+.bg{
+	background: none;
+}
+.h-8{
+	margin-top: -0.5rem;
+	margin-right: 1rem;
+}
+.space{
+	display: grid;
+	justify-content: center;
+}
